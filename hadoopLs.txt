@@ -14,3 +14,5 @@ share
 starthadoop.sh
 stophadoop.sh
 rajkumar is adding same changes here
+wrong text
+new changes
