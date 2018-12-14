@@ -1,0 +1,16 @@
+bin
+data
+etc
+include
+lib
+libexec
+LICENSE.txt
+logs
+name
+NOTICE.txt
+README.txt
+sbin
+share
+starthadoop.sh
+stophadoop.sh
+rajkumar is adding same changes here
